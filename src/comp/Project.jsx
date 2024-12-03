@@ -2,7 +2,7 @@ import React from 'react'
 import {SwiperSlide} from "swiper/react";
 import project1 from "../assets/images/hospitablity.jpg";
 import project2 from "../assets/images/IncreasingPizzaSales.webp"
-import project3 from "../assets/images/webpro.png"
+//import project3 from "../assets/images/webpro.png"
 import "swiper/css"
 import "swiper/css/pagination";
 // import { Pagination, Autoplay } from "swiper/modules";
